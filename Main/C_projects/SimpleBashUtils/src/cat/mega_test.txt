@@ -1,0 +1,7 @@
+first non blank line with		tabs
+		two tabs at the start of line
+
+
+
+blank lines above
+word 	tab word 	tab
